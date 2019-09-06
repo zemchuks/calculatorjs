@@ -9,4 +9,4 @@ A simple calculator built with javascript with beautiful and interactive design.
 
 ## The UI
 
-The UI(user interface) is currently hosted at [https://zemchuks.github.io/calculatorjs/index.html](https://zemchuks.github.io/calculatorjs/)
+The UI(user interface) is currently hosted [Here](https://zemchuks.github.io/calculatorjs/index.html)
